@@ -1,4 +1,4 @@
-# liqpay-ua-sdk
+# liqpayjs-sdk
 
 Npm wrapper for the official [LiqPay JS SDK].
 
