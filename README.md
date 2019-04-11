@@ -8,7 +8,7 @@ may differ from the one in `lib/liqpay.js`.
 ## Install
 
 ```sh
-$ npm install --save liqpay-ua-sdk
+$ npm install --save liqpayjs-sdk
 ```
 
 ## Usage
