@@ -1,6 +1,6 @@
 {
   "name": "liqpayjs-sdk",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Npm wrapper for the official LiqPay JS SDK",
   "main": "liqpay/lib/liqpay.js",
   "license": "MIT",
