@@ -1,0 +1,27 @@
+{
+  "name": "liqpayjs-sdk",
+  "version": "3.3.0",
+  "description": "Npm wrapper for the official LiqPay JS SDK",
+  "main": "liqpay/lib/liqpay.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyberz/liqpayjs-sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/cyberz/liqpayjs-sdk/issues"
+  },
+  "keywords": [
+    "liqpay",
+    "sdk",
+    "api"
+  ],
+  "author": {
+    "name": "Alexey Kameisha",
+    "email": "alexey.kameisha@gmail.com",
+    "url": "https://github.com/cyberz"
+  },
+  "dependencies": {
+    "request": "2.88.x"
+  }
+}
